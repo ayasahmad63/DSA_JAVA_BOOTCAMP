@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA_BootCamp_Java.iml" filepath="$PROJECT_DIR$/DSA_BootCamp_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Persinal-Practice Problems/Persinal-Practice Problems.iml" filepath="$PROJECT_DIR$/Persinal-Practice Problems/Persinal-Practice Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Function/assignment/assignment.iml" filepath="$PROJECT_DIR$/04-Function/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Function/personal_lecture_Code/personal_lecture_Code.iml" filepath="$PROJECT_DIR$/04-Function/personal_lecture_Code/personal_lecture_Code.iml" />
+    </modules>
+  </component>
+</project>
