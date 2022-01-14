@@ -20,10 +20,7 @@ public class M_01_CombinationSum {
     static void Combiantion(int start,int[] candidates,int target,List<Integer> arrr,List<List<Integer>> answer){
 
         if(target==0){
-
-answer.add(new ArrayList(arrr));
-
-
+            answer.add(new ArrayList(arrr));
             return ;
 
         }
@@ -35,12 +32,9 @@ answer.add(new ArrayList(arrr));
        for(int i=start;i<candidates.length;i++) {
            arrr.add(candidates[i]);
            Combiantion(i,candidates, target-candidates[i],arrr,answer);
-arrr.remove(arrr.size()-1);
+           arrr.remove(arrr.size()-1);
 
           }
-
-
-
     }
 
 
